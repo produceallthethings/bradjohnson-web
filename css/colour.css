@@ -1,0 +1,112 @@
+.background {
+	background-color: rgba(8, 86, 193, 0.4);
+}
+
+.preloader .spinner .double-bounce1,
+.preloader .spinner .double-bounce2 {
+	background: #0856c1;
+}
+
+.header .menu ul li:hover a,
+.header .menu ul li.active a {
+	color: #0856c1;
+}
+
+.header .menu ul li:hover a .icon,
+.header .menu ul li.active a .icon,
+.header .menu ul li:hover a .link,
+.header .menu ul li.active a .link {
+	color: #0856c1;
+}
+
+.card-profile:after {
+	background: -moz-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: linear-gradient(135deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+}
+
+.card-profile .profile .image:before {
+	background: -moz-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: linear-gradient(135deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+}
+
+.card-profile .profile .subtitle {
+	color: #0856c1;
+}
+
+.card-profile .profile .social a:hover .ion,
+.card-profile .profile .social a:hover .fab,
+.card-profile .profile .social a:hover .fas {
+	color: #0856c1;
+}
+
+.content .title:before {
+	background: -moz-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: linear-gradient(135deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+}
+
+.skill-items .skill-item .icon {
+	color: #0856c1;
+	background: -moz-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+	background: linear-gradient(135deg, rgba(8, 86, 193, 0.4) 0%, rgba(8, 86, 193, 0.01) 100%);
+}
+
+.sec-research-items .sec-research-item .icon {
+	color: #0856c1;
+}
+
+.resume-title .icon,
+.skill-title .icon {
+	color: #0856c1;
+}
+
+.resume-items .resume-item.active .date {
+	color: #0856c1;
+}
+
+.resume-items .resume-item.active .date:before {
+	background: #0856c1;
+}
+
+.skills-list ul li .progress .percentage {
+	background: #0856c1;
+}
+
+.content.works .filter-menu .f_btn.active {
+	color: #0856c1;
+}
+
+.background.gradient {
+	background: #50a3a2;
+	background: -webkit-linear-gradient(top left, #48b1bf 0%, #0856c1 100%);
+	background: linear-gradient(to bottom right, #48b1bf 0%, #0856c1 100%);
+}
+
+.card-profile .profile .subtitle, 
+.card-profile .profile .typed-cursor {
+	color: #0856c1;
+}
+
+.content .title .first-word {
+	color: #0856c1;
+}
+
+.content .title::first-letter,
+.content .title .first-letter::first-letter {
+	color: #0856c1;
+}
+
+.new-skin .skill-items .skill-item .icon {
+	background: #0856c1!important;
+}
+
+.resume-items .resume-item.active .date {
+	border-color: #0856c1;
+}
+
+.new-skin .info-list ul li strong {
+	background: #0856c1;
+}
